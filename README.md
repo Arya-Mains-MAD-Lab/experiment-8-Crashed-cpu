@@ -42,9 +42,3 @@ The application successfully writes data to local storage and retrieves it when 
 This experiment demonstrated how to use **path_provider** and **File class** for local storage in Flutter, enabling offline persistence of data.
 
 ---
-
-## How to Run
-1. Create a new Flutter project:  
-   ```bash
-   flutter create experiment_8
-   cd experiment_8
